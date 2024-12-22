@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 <img src="https://github.com/nao83rus/nao83rus/blob/main/pict.jpg?raw=true" alt="The unlimited" width="600">
+
+https://img.shields.io/badge/NAO%2083%20RUS-brightgreen
 <!--
 **nao83rus/nao83rus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
